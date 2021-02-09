@@ -1,2 +1,2 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=renatonolo&theme=dark&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=20)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatonolo&theme=dark&layout=compact&show_icons=true&title_color=6e40c9&icon_color=6e40c9)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renatonolo&count_private=true&show_icons=true&bg_color=24332f&title_color=2cc69c&text_color=fff&icon_color=2cc69c&line_height=20)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatonolo&layout=compact&count_private=true&show_icons=true&bg_color=24332f&title_color=2cc69c&text_color=fff&icon_color=2cc69c)

@@ -2,7 +2,7 @@
    <h1>Hey there, I'm <a href="https://zumbitech.com.br">Renato</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=renatonolo.renatonolo)
+![HitCount](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Frenatonolo%2Frenatonolo.json%3Fcolor%3Dgreen&label=Visitors)
 
 <h3>Who am I?</h3>
 <p>I'm a web developer that love tech things, learning by yourself and help people that wanna learn tech things.</p>

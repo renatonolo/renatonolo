@@ -44,7 +44,7 @@
  <a target="_blank" href="https://instagram.com/renatonolo"><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="36" title="Instagram" /></a>
  <a target="_blank" href="https://t.me/renatonolo"><img src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" width="36" title="Telegram" /></a>
  <a target="_blank" href="https://github.com/renatonolo"><img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="36" title="Github" /></a>
- <a target="_blank" href="https://medium.com/renatonolo"><img src="https://edent.github.io/SuperTinyIcons/images/svg/medium.svg" width="36" title="Medium" /></a>
+ <a target="_blank" href="https://medium.com/@renatonolo"><img src="https://edent.github.io/SuperTinyIcons/images/svg/medium.svg" width="36" title="Medium" /></a>
 </p>
 
 ![Renato's GitHub stats](https://github-readme-stats.vercel.app/api?username=renatonolo&count_private=true&show_icons=true&bg_color=24332f&title_color=2cc69c&text_color=fff&icon_color=2cc69c&line_height=20&hide=stars)
